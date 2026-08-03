@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/manavkasundra/DAA-leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/manavkasundra/DAA-leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/manavkasundra/DAA-leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/manavkasundra/DAA-leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Tree
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/manavkasundra/DAA-leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/manavkasundra/DAA-leetcode/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
