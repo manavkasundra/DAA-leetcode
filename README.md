@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manavkasundra/DAA-leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manavkasundra/DAA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0654-maximum-binary-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0654-maximum-binary-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/manavkasundra/DAA-leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manavkasundra/DAA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0654-maximum-binary-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0654-maximum-binary-tree) |
 | [1763-longest-nice-substring](https://github.com/manavkasundra/DAA-leetcode/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0654-maximum-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0654-maximum-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -113,4 +117,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/manavkasundra/DAA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
