@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/manavkasundra/DAA-leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manavkasundra/DAA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/manavkasundra/DAA-leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0654-maximum-binary-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0654-maximum-binary-tree) |
 | [1763-longest-nice-substring](https://github.com/manavkasundra/DAA-leetcode/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manavkasundra/DAA-leetcode/tree/master/0169-majority-element) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/manavkasundra/DAA-leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/manavkasundra/DAA-leetcode/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
@@ -99,11 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/manavkasundra/DAA-leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/manavkasundra/DAA-leetcode/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/manavkasundra/DAA-leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/manavkasundra/DAA-leetcode/tree/master/1763-longest-nice-substring) |
 ## Segment Tree
 |  |
