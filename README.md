@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/manavkasundra/DAA-leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/manavkasundra/DAA-leetcode/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/manavkasundra/DAA-leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Tree
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manavkasundra/DAA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/manavkasundra/DAA-leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/manavkasundra/DAA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/manavkasundra/DAA-leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Merge Sort
 |  |
 | ------- |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/manavkasundra/DAA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/manavkasundra/DAA-leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## String
 |  |
 | ------- |
