@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manavkasundra/DAA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/manavkasundra/DAA-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/manavkasundra/DAA-leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/manavkasundra/DAA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/manavkasundra/DAA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/manavkasundra/DAA-leetcode/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/manavkasundra/DAA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/manavkasundra/DAA-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/manavkasundra/DAA-leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Merge Sort
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/manavkasundra/DAA-leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/manavkasundra/DAA-leetcode/tree/master/0191-number-of-1-bits) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/manavkasundra/DAA-leetcode/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/manavkasundra/DAA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/manavkasundra/DAA-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
@@ -130,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/manavkasundra/DAA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/manavkasundra/DAA-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/manavkasundra/DAA-leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## String
@@ -150,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/manavkasundra/DAA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Stack
 |  |
 | ------- |
