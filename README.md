@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/manavkasundra/DAA-leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/manavkasundra/DAA-leetcode/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/manavkasundra/DAA-leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/manavkasundra/DAA-leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/manavkasundra/DAA-leetcode/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/manavkasundra/DAA-leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Tree
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/manavkasundra/DAA-leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manavkasundra/DAA-leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1763-longest-nice-substring](https://github.com/manavkasundra/DAA-leetcode/tree/master/1763-longest-nice-substring) |
+| [3719-longest-balanced-subarray-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -172,12 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/manavkasundra/DAA-leetcode/tree/master/0307-range-sum-query-mutable) |
+| [3719-longest-balanced-subarray-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manavkasundra/DAA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
