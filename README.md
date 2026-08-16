@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manavkasundra/DAA-leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manavkasundra/DAA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/manavkasundra/DAA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manavkasundra/DAA-leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manavkasundra/DAA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/manavkasundra/DAA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/manavkasundra/DAA-leetcode/tree/master/0372-super-pow) |
+| [0932-beautiful-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/manavkasundra/DAA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Euler's Totient Function
 |  |
