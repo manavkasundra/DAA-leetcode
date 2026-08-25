@@ -9,11 +9,13 @@ public:
 
         vector<int> ans;
 
-        for (int x : odd)
-            ans.push_back(2 * x - 1);
+        for (int i = 0; i < odd.size(); i++) {
+            ans.push_back(2 * odd[i] - 1);
+        }
 
-        for (int x : even)
-            ans.push_back(2 * x);
+        for (int i = 0; i < even.size(); i++) {
+            ans.push_back(2 * even[i]);
+        }
 
         return ans;
     }
