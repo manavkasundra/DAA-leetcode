@@ -1,18 +1,20 @@
 class Solution {
 public:
     int countElements(vector<int>& nums, int k) {
+        if (k == 0) return nums.size();
+
         sort(nums.begin(), nums.end());
+
         int n = nums.size();
-        
-        if (k == 0) {
-            return n;
-        }
-        
-        int threshold = nums[n - k];
+        int target = nums[n - k];
+
         int count = 0;
-        for (int x : nums) {
-            if (x < threshold) count++;
+        for (int i = 0; i < n; i++) {
+            if (nums[i] < target) {
+                count++;
+            }
         }
+
         return count;
     }
 };
