@@ -10,44 +10,27 @@
  */
 class Solution {
 public:
-    ListNode* findMid(ListNode* head) {
-        ListNode *slow = head, *fast = head->next;
-        while (fast && fast->next) {
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-        return slow;
-    }
-
-    ListNode* merge(ListNode* a, ListNode* b) {
-        ListNode dummy(0);
-        ListNode* cur = &dummy;
-
-        while (a && b) {
-            if (a->val < b->val) {
-                cur->next = a;
-                a = a->next;
-            } else {
-                cur->next = b;
-                b = b->next;
-            }
-            cur = cur->next;
-        }
-
-        cur->next = a ? a : b;
-        return dummy.next;
-    }
-
     ListNode* sortList(ListNode* head) {
-        if (!head || !head->next) return head;
+        if (head == nullptr) return nullptr;
 
-        ListNode* mid = findMid(head);
-        ListNode* right = mid->next;
-        mid->next = NULL;
+        // Step 1: Put all node values into a vector
+        vector<int> values;
+        ListNode* curr = head;
+        while (curr != nullptr) {
+            values.push_back(curr->val);
+            curr = curr->next;
+        }
 
-        ListNode* left = sortList(head);
-        right = sortList(right);
+        // Step 2: Sort the vector
+        sort(values.begin(), values.end());
 
-        return merge(left, right);
+        // Step 3: Put the sorted values back into the linked list
+        curr = head;
+        for (int i = 0; i < values.size(); i++) {
+            curr->val = values[i];
+            curr = curr->next;
+        }
+
+        return head;
     }
 };
