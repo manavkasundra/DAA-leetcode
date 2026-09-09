@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/manavkasundra/DAA-leetcode/tree/master/0372-super-pow) |
+| [0670-maximum-swap](https://github.com/manavkasundra/DAA-leetcode/tree/master/0670-maximum-swap) |
 | [0932-beautiful-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/manavkasundra/DAA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/manavkasundra/DAA-leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/manavkasundra/DAA-leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/manavkasundra/DAA-leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0670-maximum-swap](https://github.com/manavkasundra/DAA-leetcode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manavkasundra/DAA-leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1382-balance-a-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/manavkasundra/DAA-leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
