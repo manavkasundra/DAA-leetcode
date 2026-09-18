@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manavkasundra/DAA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0932-beautiful-array) |
+| [0969-pancake-sorting](https://github.com/manavkasundra/DAA-leetcode/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/manavkasundra/DAA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/manavkasundra/DAA-leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/manavkasundra/DAA-leetcode/tree/master/0148-sort-list) |
+| [0969-pancake-sorting](https://github.com/manavkasundra/DAA-leetcode/tree/master/0969-pancake-sorting) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/manavkasundra/DAA-leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manavkasundra/DAA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0912-sort-an-array) |
+| [0969-pancake-sorting](https://github.com/manavkasundra/DAA-leetcode/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/manavkasundra/DAA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/manavkasundra/DAA-leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/manavkasundra/DAA-leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0670-maximum-swap](https://github.com/manavkasundra/DAA-leetcode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manavkasundra/DAA-leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0969-pancake-sorting](https://github.com/manavkasundra/DAA-leetcode/tree/master/0969-pancake-sorting) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manavkasundra/DAA-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/manavkasundra/DAA-leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
