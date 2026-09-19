@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0427-construct-quad-tree) |
 | [0654-maximum-binary-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0654-maximum-binary-tree) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manavkasundra/DAA-leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0826-most-profit-assigning-work](https://github.com/manavkasundra/DAA-leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manavkasundra/DAA-leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manavkasundra/DAA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manavkasundra/DAA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0826-most-profit-assigning-work](https://github.com/manavkasundra/DAA-leetcode/tree/master/0826-most-profit-assigning-work) |
 | [1382-balance-a-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/manavkasundra/DAA-leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Binary Tree
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/manavkasundra/DAA-leetcode/tree/master/0148-sort-list) |
+| [0826-most-profit-assigning-work](https://github.com/manavkasundra/DAA-leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0969-pancake-sorting](https://github.com/manavkasundra/DAA-leetcode/tree/master/0969-pancake-sorting) |
 ## Sorting
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/manavkasundra/DAA-leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manavkasundra/DAA-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0826-most-profit-assigning-work](https://github.com/manavkasundra/DAA-leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0912-sort-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/manavkasundra/DAA-leetcode/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/manavkasundra/DAA-leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/manavkasundra/DAA-leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0670-maximum-swap](https://github.com/manavkasundra/DAA-leetcode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manavkasundra/DAA-leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0826-most-profit-assigning-work](https://github.com/manavkasundra/DAA-leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0969-pancake-sorting](https://github.com/manavkasundra/DAA-leetcode/tree/master/0969-pancake-sorting) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manavkasundra/DAA-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
