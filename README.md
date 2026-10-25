@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/manavkasundra/DAA-leetcode/tree/master/0191-number-of-1-bits) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/manavkasundra/DAA-leetcode/tree/master/1763-longest-nice-substring) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/manavkasundra/DAA-leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/manavkasundra/DAA-leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manavkasundra/DAA-leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/manavkasundra/DAA-leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/manavkasundra/DAA-leetcode/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manavkasundra/DAA-leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manavkasundra/DAA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/manavkasundra/DAA-leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Queue
 |  |
 | ------- |
