@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/manavkasundra/DAA-leetcode/tree/master/0148-sort-list) |
+| [0647-palindromic-substrings](https://github.com/manavkasundra/DAA-leetcode/tree/master/0647-palindromic-substrings) |
 | [0826-most-profit-assigning-work](https://github.com/manavkasundra/DAA-leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0969-pancake-sorting](https://github.com/manavkasundra/DAA-leetcode/tree/master/0969-pancake-sorting) |
 ## Sorting
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/manavkasundra/DAA-leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/manavkasundra/DAA-leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0647-palindromic-substrings](https://github.com/manavkasundra/DAA-leetcode/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manavkasundra/DAA-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manavkasundra/DAA-leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1763-longest-nice-substring](https://github.com/manavkasundra/DAA-leetcode/tree/master/1763-longest-nice-substring) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/manavkasundra/DAA-leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/manavkasundra/DAA-leetcode/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manavkasundra/DAA-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0647-palindromic-substrings](https://github.com/manavkasundra/DAA-leetcode/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manavkasundra/DAA-leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manavkasundra/DAA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
