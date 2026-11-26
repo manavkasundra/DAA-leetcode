@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0654-maximum-binary-tree) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manavkasundra/DAA-leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0826-most-profit-assigning-work](https://github.com/manavkasundra/DAA-leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0861-score-after-flipping-matrix](https://github.com/manavkasundra/DAA-leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manavkasundra/DAA-leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manavkasundra/DAA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/manavkasundra/DAA-leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/manavkasundra/DAA-leetcode/tree/master/0191-number-of-1-bits) |
+| [0861-score-after-flipping-matrix](https://github.com/manavkasundra/DAA-leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/manavkasundra/DAA-leetcode/tree/master/1763-longest-nice-substring) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/manavkasundra/DAA-leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/manavkasundra/DAA-leetcode/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manavkasundra/DAA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/0427-construct-quad-tree) |
+| [0861-score-after-flipping-matrix](https://github.com/manavkasundra/DAA-leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3537-fill-a-special-grid](https://github.com/manavkasundra/DAA-leetcode/tree/master/3537-fill-a-special-grid) |
 ## Stack
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/manavkasundra/DAA-leetcode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manavkasundra/DAA-leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0826-most-profit-assigning-work](https://github.com/manavkasundra/DAA-leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0861-score-after-flipping-matrix](https://github.com/manavkasundra/DAA-leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0969-pancake-sorting](https://github.com/manavkasundra/DAA-leetcode/tree/master/0969-pancake-sorting) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manavkasundra/DAA-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/manavkasundra/DAA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
