@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/0932-beautiful-array) |
 | [0969-pancake-sorting](https://github.com/manavkasundra/DAA-leetcode/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/manavkasundra/DAA-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1043-partition-array-for-maximum-sum](https://github.com/manavkasundra/DAA-leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/manavkasundra/DAA-leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/manavkasundra/DAA-leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manavkasundra/DAA-leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/manavkasundra/DAA-leetcode/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manavkasundra/DAA-leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manavkasundra/DAA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1043-partition-array-for-maximum-sum](https://github.com/manavkasundra/DAA-leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/manavkasundra/DAA-leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Queue
 |  |
